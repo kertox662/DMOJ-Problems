@@ -1,3 +1,8 @@
+/*
+Link to problem:
+https://dmoj.ca/problem/acoinproblem
+*/
+
 #include <iostream>
 #include <algorithm>
 #include <set>

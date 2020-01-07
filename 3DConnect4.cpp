@@ -1,3 +1,8 @@
+/*
+Link to problem:
+https://dmoj.ca/problem/3dconnect4
+*/
+
 #include <iostream>
 
 using namespace std;

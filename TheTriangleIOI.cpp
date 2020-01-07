@@ -1,3 +1,8 @@
+/*
+Link to problem:
+https://dmoj.ca/problem/ioi94p1
+*/
+
 #include <iostream>
 #include <cmath>
 

@@ -1,3 +1,8 @@
+/*
+Link to problem:
+https://dmoj.ca/problem/16bitswonly
+*/
+
 #include <string>
 #include <iostream>
 #include <algorithm>

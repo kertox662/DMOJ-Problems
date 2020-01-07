@@ -1,3 +1,8 @@
+/*
+Link to problem:
+https://dmoj.ca/problem/ccc05s3
+*/
+
 #include <iostream>
 #include <climits>
 #include <array>

@@ -1,3 +1,8 @@
+/*
+Link to problem:
+https://dmoj.ca/problem/ecoo17r1p3
+*/
+
 #include <iostream>
 #include <cmath>
 
