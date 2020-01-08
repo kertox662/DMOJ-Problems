@@ -17,7 +17,7 @@ int main() {
     int b_size = stoi(line1.substr(0,pos));
     int numQ = stoi(line1.substr(pos+1));
 
-    int *board = new int[b_size * b_size];
+    int board[b_size*b_size];
     int *queens = new int[numQ*2];
 
     for(int i = 0; i < numQ * 2; i+=2){

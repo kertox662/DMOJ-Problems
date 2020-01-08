@@ -63,6 +63,9 @@ int main(){
     }
 
     for(int i = 0; i < numStores; i++)
-        cout << results[i] << endl;
+        if(results[i] == 0) 
+            cout << -1 << endl;
+        else
+            cout << results[i] << endl;
 
 }
